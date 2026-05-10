@@ -1,0 +1,17 @@
+build/
+install/
+log/
+
+*.bag
+*.db3
+*.zip
+*.tar
+*.tar.gz
+
+*.o
+*.so
+*.a
+
+.vscode/
+.idea/
+
